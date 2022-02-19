@@ -17,3 +17,13 @@ npm run lint
 /*Tratar de reparar errores en la configuración
 npm run lint:fix
 
+
+//Clase 2 - Integrando PostCSS y TailwindCSS a nuestro proyecto
+npm install tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+
+Nota: En el index.js, dentro del return que devuelve la vista, no puede ir la palabra "class" en el HTML, en su defecto tiene que ser reemplazada por "className". 
+
+
