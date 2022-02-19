@@ -1,0 +1,19 @@
+//Pasos para crear un proyecto next.js
+/* Creación del proyecto 
+npx cretate-next-app "nombre app"
+
+/*compilación del proyecto
+npm run dev
+
+/*Configuración inicial: 
+• Creación de carpeta src
+• Mover las carpetas "css" y "pages" a src
+• instalar dependencias: 
+    ♦ npm install eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier prettier -D
+
+/*Validar la configuración del proyecto
+npm run lint
+
+/*Tratar de reparar errores en la configuración
+npm run lint:fix
+
