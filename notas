@@ -30,6 +30,12 @@ Nota: En el index.js, dentro del return que devuelve la vista, no puede ir la pa
 // Clase 3 - Integrando PostCSS y TailwindCSS a nuestro proyecto
 /*Configuración del archivo jsconfig.js
 
+Se crea un archivo nuevo llamado "jsconfig.json" en la raiz del proyecto para la implementación de las rutas y alias para la importación de archivos. 
 
+//Clase 4 - Cómo integrar componentes predefinidos con TailwindUI
 
+/* Instalación de iconos para el proyecto "hero icons"
+npm install @heroicons/react
 
+/*instalación de los elementos para ui
+npm install @headlessui/react
