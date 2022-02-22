@@ -27,3 +27,9 @@ npx tailwindcss init -p
 Nota: En el index.js, dentro del return que devuelve la vista, no puede ir la palabra "class" en el HTML, en su defecto tiene que ser reemplazada por "className". 
 
 
+// Clase 3 - Integrando PostCSS y TailwindCSS a nuestro proyecto
+/*Configuración del archivo jsconfig.js
+
+
+
+
